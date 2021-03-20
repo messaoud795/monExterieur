@@ -1,0 +1,12 @@
+.Accueil {
+  background-color: #f8f8f8;
+  position: relative;
+}
+
+.Accueil__img {
+  width: 100%;
+  height: 28rem;
+  margin-top: -5rem;
+  z-index: -2;
+  object-fit: cover;
+}

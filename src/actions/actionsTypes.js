@@ -1,0 +1,3 @@
+export const BOIS_LOAD_START = "BOIS_LOAD_START";
+export const BOIS_LOAD_SUCCESS = "BOIS_LOAD_SUCCESS";
+export const BOIS_LOAD_ERROR = "BOIS_LOAD_ERROR";

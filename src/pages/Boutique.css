@@ -1,0 +1,24 @@
+.boutique {
+  background-color: #f8f8f8;
+  padding-bottom: 5rem;
+}
+.boutique__index {
+  background-color: #3b1314;
+  width: 100%;
+  height: 15rem;
+  padding: 8rem 14rem 10rem;
+  margin: -5rem 0 4rem 0;
+}
+.boutique__index-title {
+  font-size: 3.3rem;
+  color: var(--green);
+  font-family: "Pt sans";
+  padding-bottom: 1rem;
+}
+.boutique__index-texte {
+  color: white;
+  font-size: 1.4rem;
+}
+.boutique__bois {
+  display: flex;
+}
